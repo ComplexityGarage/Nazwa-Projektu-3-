@@ -8,7 +8,7 @@ Dominika Kawałek
 This project is an arduino based walking robot with 6 independent legs inspired by the waling cycles of an ant. This robot can be controlled remotely by any device with bluetooth (e.g. via phone) and is equiped with batteries powering it without a need for any external wires.
 
 # Science and tech used
-Text & plots here...
+This robot uses and Arduino UNO R3 as its main controll unit. To wirelessly connect with other deveices it uses an HC-05 arduino bluetooth module. In order to turn it limbs it uses multiple small servomechnisms. 
 
 # State of the art
 Text & plots here...
