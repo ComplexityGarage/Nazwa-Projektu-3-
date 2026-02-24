@@ -1,1 +1,1 @@
-# Robot chodzący "Mrówka"
+# Walking robot "Mrówka"
