@@ -22,5 +22,11 @@ The movment itself (as mentioned many times before) is inspired by the walk cycl
 This model can be used as an educational prop to showcase in a simplified yet interesting way the walk cycles of ants. If that ware the case its possible to make a decorative caseing in a shape of an ant or other insect for this model.  
 Anothe future use for this model may be as a baseline for 6-legged walking robots, as this waling cycle can be used in difficult terrains thanks to its rather high stability.
 
+In the future, it would be possible to create a similarly functioning walking robot. However, it would require several improvements:
+-More stable leg attachments to the body,
+-More stable knees,
+-Thicker, more durable limbs,
+-Larger feet with better traction (e.g., covered with rubber).
+
 # Sources
 [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github )
